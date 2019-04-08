@@ -8,9 +8,9 @@ An online comic book store wants to determine where forum posts are originating 
  
 ### Executive Summary
 ### Contents:
-- [Part_1: Data Gathering]()
-- [Part_2: Cleaning Data]()
-- [Part _3: Modeling and Evaluation]()
+- [Part_1: Data Gathering](https://github.com/sharnb/project_3/blob/master/code/Part_1_Gather.ipynb)
+- [Part_2: Cleaning Data](https://github.com/sharnb/project_3/blob/master/code/Part_2_Preprocess_Clean.ipynb)
+- [Part _3: Modeling and Evaluation](https://github.com/sharnb/project_3/blob/master/code/Part_3_Modeling.ipynb)
 
 Data Dictionary:
 
@@ -23,7 +23,7 @@ Data Dictionary:
 
 
 ## Conclusions and Recommendations
-The model will be able to predict a posts subreddit with very good accuracy
-With more time I would like to Collect more data, possibly include commentse, as well as explore and go more indepth with some models such as random forest and extra trees parameters further.
+The model will be able to predict a posts subreddit with very good accuracy.
+With more time I would like to Collect more data, possibly include comments, as well as explore and go more indepth with some models such as random forest and extra trees parameters.
 
 Use for sentiment analysis of combined comic boards, weight comment biases, see if post or comments given are Constructive vs critical.
